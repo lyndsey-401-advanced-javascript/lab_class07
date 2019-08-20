@@ -9,14 +9,14 @@ Lyndsey Thomas
 
 ### Links and Resources
 * [submission PR](https://github.com/tutuorial-401js/class-00)
-* [travis](https://travis-ci.com/tutuorial-401js/class-00)
+* [travis](n/a for this lab)
 * [front-end](https://tutorial-401js.herokuapp.com/)
 
 #### Documentation
 * [jsdoc](https://tutorial-401js.herokuapp.com/docs)
 
 ### Modules
-#### `pol.js`
+
 ##### Exported Values and Methods
 
 ###### `isAlive(dead) -> boolean`
