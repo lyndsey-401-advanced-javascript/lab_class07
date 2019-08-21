@@ -8,8 +8,8 @@ Lillian Gales
 Lyndsey Thomas
 
 ### Links and Resources
-* [submission PR](https://github.com/tutuorial-401js/class-00)
-* [travis](n/a for this lab)
+* [submission PR](https://github.com/lyndsey-401-advanced-javascript/lab_class07/pull/1)
+* [travis](https://travis-ci.com/lyndsey-401-advanced-javascript/lab_class07)
 * [front-end](https://lab07-express.herokuapp.com/)
 
 #### Documentation
