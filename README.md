@@ -10,21 +10,18 @@ Lyndsey Thomas
 ### Links and Resources
 * [submission PR](https://github.com/tutuorial-401js/class-00)
 * [travis](n/a for this lab)
-* [front-end](https://tutorial-401js.herokuapp.com/)
+* [front-end](https://lab07-express.herokuapp.com/)
 
 #### Documentation
-* [jsdoc](https://tutorial-401js.herokuapp.com/docs)
+* [jsdoc]()
 
 ### Modules
 
 ##### Exported Values and Methods
 
-###### `isAlive(dead) -> boolean`
-The isAlive() method returns a boolean based on the arg sent in.
-
 ### Setup
+
 #### `.env` requirements
-* `PORT` - Port Number
 
 #### Running the app
 * `npm start`
@@ -43,4 +40,4 @@ The isAlive() method returns a boolean based on the arg sent in.
 
 #### UML
 
-![UML Diagram](whiteboard.jpg)
+![UML Diagram](./uml.jpeg)
