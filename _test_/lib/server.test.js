@@ -1,8 +1,9 @@
 'use strict';
 
 const { server } = require('../../lib/server.js');
-const supergoose = require('../supergoose.js');
-const mockRequest = supergoose(server);
+// const supergoose = require('../supergoose.js');
+const supertest = require('supertest');
+const mockRequest = supertest(server);
 
 describe('web server', () => {
 
